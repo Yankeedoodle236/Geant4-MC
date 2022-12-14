@@ -1,0 +1,10 @@
+^C:\PROGRAM FILES (X86)\GEANT4-V11.0.2\GEANT4-V11.0.2-INSTALL\SHARE\GEANT4-11.0.2\EXAMPLES\EXTENDED\OPTICAL\OPNOVICE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice" "-BC:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice" --check-stamp-file "C:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

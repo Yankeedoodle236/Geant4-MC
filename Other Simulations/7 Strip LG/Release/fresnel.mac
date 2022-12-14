@@ -1,0 +1,23 @@
+/vis/viewer/set/lineSegmentsPerCircle 100
+/vis/geometry/set/visibility World 0 0
+/vis/viewer/set/background 1 1 1 1
+/vis/geometry/set/colour all 0 0 0 0 1
+/vis/geometry/set/forceSolid all
+/vis/geometry/set/forceWireframe Scint
+/vis/geometry/set/forceWireframe Cone
+/vis/geometry/set/colour Rect_mid 0 0 0 1 1
+/vis/geometry/set/colour Rect_right 0 1 0 1 1
+/vis/geometry/set/colour Rect_left 0 1 0 1 1
+/vis/geometry/set/colour Rect_right2 0 1 0 0 1
+/vis/geometry/set/colour Rect_left2 0 1 0 0 1
+/vis/geometry/set/colour Union2 0 0 1 0 1
+/vis/geometry/set/colour Intersect_rect 0 0 1 0 1
+/vis/geometry/set/colour Union4 0 1 0 0 1
+/vis/geometry/set/colour Union3 0 1 0 0 1
+/vis/geometry/set/colour Red_piece 0 1 0 0 1
+/vis/geometry/set/colour Green_piece 0 0 1 0 1
+/vis/geometry/set/colour Pink_piece 0 1 0 1 1
+/vis/geometry/set/colour Rect_right_2 0 0 1 0 1
+/vis/geometry/set/colour Rect_left_2 0 0 1 0 1
+/vis/geometry/set/colour Photo 1 1 1 1 1
+/vis/viewer/set/lightsMove with-camera
