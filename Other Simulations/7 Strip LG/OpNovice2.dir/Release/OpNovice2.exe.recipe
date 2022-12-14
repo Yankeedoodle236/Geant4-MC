@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\Release\OpNovice2.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

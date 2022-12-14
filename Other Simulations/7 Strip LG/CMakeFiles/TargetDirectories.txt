@@ -1,0 +1,4 @@
+C:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice/CMakeFiles/OpNovice2.dir
+C:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice/CMakeFiles/INSTALL.dir
+C:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/geant4-v11.0.2/geant4-v11.0.2-install/share/Geant4-11.0.2/examples/extended/optical/OpNovice/CMakeFiles/ZERO_CHECK.dir
