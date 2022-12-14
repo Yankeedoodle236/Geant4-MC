@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\CMakeFiles\dabb18a6570b7eabd949ee6193c87ee6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2F4376B-3F3F-3AA0-9579-C6CE01646F78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

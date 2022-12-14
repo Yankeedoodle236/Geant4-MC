@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\OpNovice2.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\ActionInitialization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\DetectorConstruction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\DetectorMessenger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\EventAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\HistoManager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\PrimaryGeneratorAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\PrimaryGeneratorMessenger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\Run.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\RunAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\SteppingAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\TrackInformation.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\src\TrackingAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\ActionInitialization.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\DetectorConstruction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\DetectorMessenger.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\EventAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\HistoManager.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\PrimaryGeneratorAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\PrimaryGeneratorMessenger.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\Run.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\RunAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\SteppingAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\TrackInformation.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\include\TrackingAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Program Files (x86)\geant4-v11.0.2\geant4-v11.0.2-install\share\Geant4-11.0.2\examples\extended\optical\OpNovice\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{33791CF3-BE65-3939-99B4-D7930E733BE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{854F5719-21A6-3B7A-9730-796373F9A2E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
